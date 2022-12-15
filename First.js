@@ -1,4 +1,4 @@
-let a=10;
+let a=22;
 let b=2;
 let c=a+b;
 console.log(c);
